@@ -4,8 +4,8 @@ import "fmt"
 
 func main(){
 	
-for i := 0; i < 5; i++ {
-    fmt.Println("Angka ke-", i)
+for j := 0; j < 5; j++ {
+    fmt.Println("Angka ke-", j)
 }
 
 }
