@@ -1,4 +1,4 @@
-// Menghitung gerak lurus beraturan oleh : Hendra Permana
+// Menghitung gerak lurus beraturan oleh : Hendra Permana yang sudah di edit
 package main
 
 import "fmt"
