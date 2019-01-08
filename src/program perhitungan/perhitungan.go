@@ -41,7 +41,11 @@ func luas_persegi() {
 
 func luas_segitiga() {
 	var alas, tinggi, hasil int
-
+	fmt.Println("                                      ")
+	fmt.Println("======================================")
+	fmt.Println("======Perhitungan Luas Segitiga=======")
+	fmt.Println("======================================")
+	fmt.Println("    
 	fmt.Print("Masukkan nilai Alas:")
 	fmt.Scanln(&alas)
     fmt.Print("Masukkan nilai Tinggi:")
